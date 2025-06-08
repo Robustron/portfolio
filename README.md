@@ -18,21 +18,21 @@ https://v0-pratik-jadhav-portfolio.vercel.app/
 
 1. Clone this repository
 2. Install dependencies:
-   ```bash
+   \`\`\`bash
    npm install
    # or
    yarn install
    # or
    pnpm install
-   ```
+   \`\`\`
 3. Run the development server:
-   ```bash
+   \`\`\`bash
    npm run dev
    # or
    yarn dev
    # or
    pnpm dev
-   ```
+   \`\`\`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Technologies Used
