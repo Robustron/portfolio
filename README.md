@@ -4,7 +4,7 @@ A modern portfolio website built with Next.js and Tailwind CSS.
 
 ## Live Demo
 
-https://v0-pratik-jadhav-portfolio.vercel.app/
+https://pratik-jadhav-portfolio.vercel.app/
 
 ## Features
 
