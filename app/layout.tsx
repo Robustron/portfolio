@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "Pratik Jadhav - AI & Generative AI Developer",
   description:
     "Portfolio of Pratik Jadhav, an AI & Generative AI Developer specializing in RAG systems, AI-driven platforms, and GenAI applications.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
